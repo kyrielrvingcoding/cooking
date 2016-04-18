@@ -415,7 +415,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = cooking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = azui.cooking;
+				PRODUCT_BUNDLE_IDENTIFIER = naizui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -426,7 +426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = cooking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = azui.cooking;
+				PRODUCT_BUNDLE_IDENTIFIER = naizui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -498,6 +498,7 @@
 				772F54511CC4DEA80048F287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		772F54521CC4DEA80048F287 /* Build configuration list for PBXNativeTarget "cookingTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				772F54541CC4DEA80048F287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		772F54551CC4DEA80048F287 /* Build configuration list for PBXNativeTarget "cookingUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				772F54571CC4DEA80048F287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
