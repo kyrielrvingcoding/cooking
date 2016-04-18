@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"诸超杰");
     NSLog(@"诸超杰1");
+    NSLog(@"奶嘴第4次更新");
     NSLog(@"yewang");
     // Do any additional setup after loading the view, typically from a nib.
 }
